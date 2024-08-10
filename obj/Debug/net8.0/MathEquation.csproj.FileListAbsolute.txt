@@ -1,0 +1,14 @@
+E:\Projects Github\Math_Equation\MathEquation\bin\Debug\net8.0\MathEquation.exe
+E:\Projects Github\Math_Equation\MathEquation\bin\Debug\net8.0\MathEquation.deps.json
+E:\Projects Github\Math_Equation\MathEquation\bin\Debug\net8.0\MathEquation.runtimeconfig.json
+E:\Projects Github\Math_Equation\MathEquation\bin\Debug\net8.0\MathEquation.dll
+E:\Projects Github\Math_Equation\MathEquation\bin\Debug\net8.0\MathEquation.pdb
+E:\Projects Github\Math_Equation\MathEquation\obj\Debug\net8.0\MathEquation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects Github\Math_Equation\MathEquation\obj\Debug\net8.0\MathEquation.AssemblyInfoInputs.cache
+E:\Projects Github\Math_Equation\MathEquation\obj\Debug\net8.0\MathEquation.AssemblyInfo.cs
+E:\Projects Github\Math_Equation\MathEquation\obj\Debug\net8.0\MathEquation.csproj.CoreCompileInputs.cache
+E:\Projects Github\Math_Equation\MathEquation\obj\Debug\net8.0\MathEquation.dll
+E:\Projects Github\Math_Equation\MathEquation\obj\Debug\net8.0\refint\MathEquation.dll
+E:\Projects Github\Math_Equation\MathEquation\obj\Debug\net8.0\MathEquation.pdb
+E:\Projects Github\Math_Equation\MathEquation\obj\Debug\net8.0\MathEquation.genruntimeconfig.cache
+E:\Projects Github\Math_Equation\MathEquation\obj\Debug\net8.0\ref\MathEquation.dll
